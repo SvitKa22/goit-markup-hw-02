@@ -1,8 +1,16 @@
 :root {
+--primary-color: #212121;
+--secondary-color: #757575;
+--accent-color: #2196F3;
+--background: #2F303A;
+--background-secondary-color: #F5F4FA;
+--primary-font: "Roboto", sans-serif;
+--secondary-font: "Raleway", sans-serif;
+--normal-font: 400;
+--medium-font: 500;
+--bold-font: 700;
+--bolder-font: 900;
 
 
 
-
-
-    
 }
